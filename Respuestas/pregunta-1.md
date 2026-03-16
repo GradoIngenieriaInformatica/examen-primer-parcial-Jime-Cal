@@ -1,1 +1,1 @@
-Base de datos NoSQL
+Base de datos NoSQL documental
